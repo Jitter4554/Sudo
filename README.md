@@ -4,6 +4,6 @@ MUST be ran in console and the player must have the ability to run the command o
 
 Support in https://discord.gg/N8ba7ErGYC
 
-if you need to contact me directly on discord im kittylover4013
+if you need to contact me directly on discord im Jitterclicksound
 
 Paid scripts can be found at https://jitter.tebex.io
